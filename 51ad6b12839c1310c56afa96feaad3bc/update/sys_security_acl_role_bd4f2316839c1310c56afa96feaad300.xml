@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-04 12:50:54</sys_created_on>
+        <sys_id>bd4f2316839c1310c56afa96feaad300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2168827_nowfood_pesanan.x_2168827_nowfood.user</sys_name>
+        <sys_package display_value="nowFood" source="x_2168827_nowfood">51ad6b12839c1310c56afa96feaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowFood">51ad6b12839c1310c56afa96feaad3bc</sys_scope>
+        <sys_security_acl display_value="x_2168827_nowfood_pesanan">bd4fefd2839c1310c56afa96feaad3b9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bd4f2316839c1310c56afa96feaad300</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-04 12:50:54</sys_updated_on>
+        <sys_user_role display_value="x_2168827_nowfood.user" name="x_2168827_nowfood.user">e9ad6b12839c1310c56afa96feaad3e6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

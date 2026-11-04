@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2168827_nowfood.admin" name="x_2168827_nowfood.admin">65ad6b12839c1310c56afa96feaad3de</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-04 12:43:46</sys_created_on>
+        <sys_id>2dad6b12839c1310c56afa96feaad3e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65ad6b12839c1310c56afa96feaad3de</sys_name>
+        <sys_package display_value="nowFood" source="x_2168827_nowfood">51ad6b12839c1310c56afa96feaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nowFood">51ad6b12839c1310c56afa96feaad3bc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2dad6b12839c1310c56afa96feaad3e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-04 12:43:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
