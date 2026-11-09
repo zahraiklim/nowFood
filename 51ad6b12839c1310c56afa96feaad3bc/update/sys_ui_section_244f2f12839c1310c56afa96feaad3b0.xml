@@ -4,13 +4,111 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-04 12:50:49</sys_created_on>
-            <sys_id>6c4f2f12839c1310c56afa96feaad3b7</sys_id>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>fa20b84883241310c56afa96feaad33b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-04 12:50:49</sys_updated_on>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nama_pemesan</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>b620b84883241310c56afa96feaad33c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kurir</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>7220b84883241310c56afa96feaad33d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>konfirmasi</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>3e20b84883241310c56afa96feaad33d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>f620b84883241310c56afa96feaad33e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pesanan</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>b220b84883241310c56afa96feaad33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pesanan.harga</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>7e20b84883241310c56afa96feaad33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status_pesanan</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:25:18</sys_created_on>
+            <sys_id>3a20b84883241310c56afa96feaad340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2168827_nowfood_pesanan" sys_domain="global" view="Default view">244f2f12839c1310c56afa96feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:25:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="konfirmasi" label="Konfirmasi" language="en" table="x_2168827_nowfood_pesanan">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>konfirmasi</element>
+            <help/>
+            <hint/>
+            <label>Konfirmasi</label>
+            <language>en</language>
+            <name>x_2168827_nowfood_pesanan</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-09 09:23:14</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Konfirmasi</sys_name>
+            <sys_package display_value="nowFood" source="x_2168827_nowfood">51ad6b12839c1310c56afa96feaad3bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="nowFood">51ad6b12839c1310c56afa96feaad3bc</sys_scope>
+            <sys_update_name>sys_documentation_x_2168827_nowfood_pesanan_konfirmasi_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-09 09:23:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

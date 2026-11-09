@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="781ea04483241310c56afa96feaad33d" label="Daftar Menu" max_length="40" name="x_2168827_nowfood_daftar_menu" type="collection">
+        <element label="Nama akanan/minuman" max_length="40" name="nama_akanan_minuman" type="string"/>
+        <element label="Harga" max_length="40" name="harga" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
